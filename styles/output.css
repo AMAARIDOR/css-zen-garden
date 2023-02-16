@@ -517,6 +517,11 @@ video {
   margin: 1.75rem;
 }
 
+.my-7 {
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
+}
+
 .rounded-lg {
   border-radius: 0.5rem;
 }
